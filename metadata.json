@@ -1,0 +1,6 @@
+{
+  "name": "Void Survivor - Commercial Space Roguelite",
+  "description": "An advanced commercial-grade space roguelite survivor featuring procedural sectors, dynamic game director, modular ships, multi-stage bosses, and weapon evolutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
